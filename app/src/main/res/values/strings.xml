@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PruebaInterRapidisimo</string>
+    <string name="btn_consumeApi">Consumir API</string>
+    <string name="edt_search">Buscar Tabla</string>
+    <string name="errorTitle">Error de datos</string>
+    <string name="errorText">No hemos podido recuperar la información, por favor seleccione el botón consumir API</string>
+    <string name="errorText2">No hemos encontrado ninguna coincidencia</string>
+    <string name="Author">Jorge Alejandro Achury Fonseca</string>
+    <string name="cel">+57 3156312891</string>
+    <string name="nameTest">Prueba Inter Rapidisimo</string>
+</resources>
